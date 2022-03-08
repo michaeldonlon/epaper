@@ -1,0 +1,1 @@
+15 6,11,14 * * * /usr/bin/bash /home/pi/epaper/bom_ftp.sh >> /home/pi/epaper/logfile.log 2>&1

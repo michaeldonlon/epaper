@@ -1,0 +1,120 @@
+IDV17300
+
+Australian Government Bureau of Meteorology
+Victoria
+
+Interstate Cities Forecast
+Issued at 6:05 am EDT on Tuesday 8 March 2022.
+
+BROOME
+Mostly sunny.
+Max 35
+Wednesday  Possible storm. Min 26 Max 35
+Thursday   Possible storm. Min 27 Max 35
+Friday     Mostly sunny. Min 27 Max 35
+
+PERTH
+Sunny.
+Max 35
+Wednesday  Mostly sunny. Min 21 Max 35
+Thursday   Mostly sunny. Min 22 Max 37
+Friday     Partly cloudy. Min 24 Max 37
+
+ADELAIDE
+Partly cloudy.
+Max 24
+Wednesday  Partly cloudy. Min 13 Max 25
+Thursday   Mostly sunny. Min 14 Max 26
+Friday     Partly cloudy. Min 15 Max 27
+
+MELBOURNE
+Cloudy.
+Max 22
+Wednesday  Partly cloudy. Min 14 Max 22
+Thursday   Partly cloudy. Min 13 Max 21
+Friday     Partly cloudy. Min 13 Max 22
+
+HOBART
+Cloudy.
+Max 17
+Wednesday  Cloudy. Min 10 Max 18
+Thursday   Partly cloudy. Min 10 Max 19
+Friday     Partly cloudy. Min 11 Max 21
+
+ALBURY-WODONGA
+Partly cloudy.
+Max 25
+Wednesday  Partly cloudy. Min 13 Max 25
+Thursday   Sunny. Min 10 Max 24
+Friday     Partly cloudy. Min 10 Max 25
+
+CANBERRA
+Showers.
+Max 21
+Wednesday  Partly cloudy. Min 12 Max 22
+Thursday   Partly cloudy. Min 9 Max 23
+Friday     Partly cloudy. Min 9 Max 23
+
+WOLLONGONG
+Rain. Possible storm, heavy falls. Windy.
+Max 22
+Wednesday  Shower or two. Windy. Min 17 Max 22
+Thursday   Partly cloudy. Min 15 Max 21
+Friday     Possible shower. Min 15 Max 21
+
+SYDNEY
+Rain, heavy falls. Windy.
+Max 23
+Wednesday  Shower or two. Windy. Min 18 Max 25
+Thursday   Partly cloudy. Min 16 Max 23
+Friday     Possible shower. Min 17 Max 24
+
+NEWCASTLE
+Rain. Possible storm.
+Max 27
+Wednesday  Shower or two. Min 18 Max 26
+Thursday   Shower or two. Min 17 Max 23
+Friday     Possible shower. Min 17 Max 24
+
+BRISBANE
+Possible shower.
+Max 34
+Wednesday  Shower or two. Possible storm. Min 23 Max 33
+Thursday   Shower or two. Min 22 Max 27
+Friday     Shower or two. Min 21 Max 27
+
+TOWNSVILLE
+Morning shower or two.
+Max 35
+Wednesday  Mostly sunny. Min 28 Max 35
+Thursday   Partly cloudy. Min 28 Max 35
+Friday     Shower or two. Min 27 Max 34
+
+CAIRNS
+Possible late shower or storm.
+Max 36
+Wednesday  Shower or two. Min 26 Max 34
+Thursday   Partly cloudy. Min 26 Max 34
+Friday     Shower or two. Min 25 Max 34
+
+DARWIN
+Possible shower or storm.
+Max 33
+Wednesday  Shower or two. Possible storm. Min 27 Max 33
+Thursday   Shower or two. Possible storm. Min 27 Max 33
+Friday     Shower or two. Possible storm. Min 27 Max 32
+
+ALICE SPRINGS
+Sunny.
+Max 31
+Wednesday  Sunny. Min 13 Max 32
+Thursday   Sunny. Min 15 Max 32
+Friday     Sunny. Min 14 Max 33
+
+
+The next routine forecast will be issued at 4:41 pm EDT Tuesday.
+
+Copyright Commonwealth of Australia 2011, Bureau of Meteorology (ABN 92 637 533
+532).  Users of these web pages are deemed to have read and accepted the
+conditions described in the Copyright, Disclaimer, and Privacy statements
+(http://www.bom.gov.au/other/copyright.shtml).
